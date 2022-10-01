@@ -1,3 +1,4 @@
+# LAB 1 Learn about how to using VScode and login student account
 ## STEP 1 Installing Visual Studio Code
 Download website https://code.visualstudio.com/
 ![](vscode.jpg)
@@ -6,6 +7,7 @@ Download website https://code.visualstudio.com/
 ## STEP 3 Run Some Commands
 ![](TryingSomeCommands.jpg)
 ## STEP 4 Moving Files over SSH with scp
+When I run it on the client and server, the WhereAmI file will show that the file cannot be found, and vscode prompts me that I have not downloaded the JDK
 ![](MovingFileswithscp.jpg)
 ## STEP 5 SSH Keys
 ![](SettinganSSHKey.jpg)
