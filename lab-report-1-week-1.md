@@ -17,6 +17,7 @@ Try run some commands:
 When I run it on the client and server, the WhereAmI file will show that the file cannot be found, and vscode prompts me that I have not downloaded the JDK
 ![](MovingFileswithscp.jpg)
 ## STEP 5 SSH Keys
+Avoid having to type or copy paste our password when we log in or run scp can use ssh keys
 ![](SettinganSSHKey.jpg)
 ## STEP 6 Making Remote Running Even More Pleasant
 ![](OptimizingRemoteRunning.jpg)
