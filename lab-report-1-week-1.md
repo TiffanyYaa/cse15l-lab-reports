@@ -3,6 +3,7 @@
 Download website https://code.visualstudio.com/
 ![](vscode.jpg)
 ## STEP 2 Remotely Connecting
+I spent a lot of time here because I forgot my password and spent a lot of time getting it back
 ![](RemotelyConnecting.jpg)
 ## STEP 3 Run Some Commands
 Try run some commands:
