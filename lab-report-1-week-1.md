@@ -1,0 +1,6 @@
+![](vscode.jpg)
+![](RemotelyConnecting.jpg)
+![](TryingSomeCommands.jpg)
+![](MovingFileswithscp.jpg)
+![](SettinganSSHKey.jpg)
+![](OptimizingRemoteRunning.jpg)
